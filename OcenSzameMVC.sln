@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcenSzameMVC", "OcenSzameMVC\OcenSzameMVC.csproj", "{127591E1-7123-4ECD-9C46-8645614A5C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcenSzameMVC.Tests", "OcenSzameMVC.Tests\OcenSzameMVC.Tests.csproj", "{CB282BF8-1190-43DC-8830-5156D6E12705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127591E1-7123-4ECD-9C46-8645614A5C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127591E1-7123-4ECD-9C46-8645614A5C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127591E1-7123-4ECD-9C46-8645614A5C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127591E1-7123-4ECD-9C46-8645614A5C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB282BF8-1190-43DC-8830-5156D6E12705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB282BF8-1190-43DC-8830-5156D6E12705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB282BF8-1190-43DC-8830-5156D6E12705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB282BF8-1190-43DC-8830-5156D6E12705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA9107C-5CDC-4436-89D0-8301651F18D8}
+	EndGlobalSection
+EndGlobal
